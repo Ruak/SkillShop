@@ -1,0 +1,8 @@
+.next/
+node_modules/
+.next-dev.log
+.next-dev.err.log
+npm-debug.log*
+data/*.db
+data/*.db-*
+docs/
